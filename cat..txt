@@ -1,1 +1,3 @@
-cat can rotate their ears 200 degrees.
+<<<<<<< HEAD
+cat can rotate their ears 150 degrees.
+
